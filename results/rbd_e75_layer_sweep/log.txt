@@ -1,0 +1,71 @@
+Loading 3998 rbd mutants (L=201)...
+  L1 cached, skip
+  L2 cached, skip
+  L3 cached, skip
+  L4 cached, skip
+  L5 cached, skip
+  L6 cached, skip
+  L7 cached, skip
+  L8 cached, skip
+  L9 cached, skip
+  L10 cached, skip
+  L11 cached, skip
+  L12 cached, skip
+  L13 cached, skip
+  L14 cached, skip
+  L15 cached, skip
+  L16 cached, skip
+  L17 cached, skip
+  L18 cached, skip
+  L19 cached, skip
+  L20 cached, skip
+  L21 cached, skip
+  L22 cached, skip
+  L23 cached, skip
+  >> L24  mu=0.4576 sigma=0.0257 splits=[0.449, 0.435, 0.489]
+  >> L25  mu=0.4542 sigma=0.0273 splits=[0.419, 0.465, 0.479]
+  >> L26  mu=0.4495 sigma=0.0376 splits=[0.412, 0.44, 0.496]
+  >> L27  mu=0.4376 sigma=0.0353 splits=[0.405, 0.423, 0.484]
+  >> L28  mu=0.4253 sigma=0.0475 splits=[0.377, 0.415, 0.484]
+  >> L29  mu=0.4308 sigma=0.0393 splits=[0.403, 0.406, 0.483]
+  >> L30  mu=0.4351 sigma=0.0546 splits=[0.392, 0.402, 0.511]
+  >> L31  mu=0.4433 sigma=0.0567 splits=[0.382, 0.436, 0.511]
+  >> L32  mu=0.4657 sigma=0.0397 splits=[0.427, 0.451, 0.519]
+  >> L33  mu=0.4536 sigma=0.0394 splits=[0.423, 0.436, 0.502]
+
+============================================================
+  L1   0.3655
+  L2   0.4270
+  L3   0.4630
+  L4   0.4744
+  L5   0.4930
+  L6   0.4987
+  L7   0.5094
+  L8   0.4905
+  L9   0.4950
+  L10  0.5141
+  L11  0.5022
+  L12  0.4964
+  L13  0.4863
+  L14  0.4818
+  L15  0.4858
+  L16  0.4824
+  L17  0.4860
+  L18  0.4737
+  L19  0.4832
+  L20  0.4782
+  L21  0.4730
+  L22  0.4682
+  L23  0.4717
+  L24  0.4576
+  L25  0.4542
+  L26  0.4495
+  L27  0.4376
+  L28  0.4253
+  L29  0.4308
+  L30  0.4351
+  L31  0.4433
+  L32  0.4657
+  L33  0.4536
+BEST: L10 = 0.5141 (L33 = 0.4536)
+DONE

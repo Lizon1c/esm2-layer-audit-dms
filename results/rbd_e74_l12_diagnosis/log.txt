@@ -1,0 +1,42 @@
+============================================================
+PART B (ranks/CKA/ridge): RBD
+  zii  eff90=45 PR=17.5
+  l33  eff90=325 PR=44.5
+  l12  eff90=702 PR=205.7
+  CKA(l33,zii)=0.0261
+  CKA(l12,zii)=0.0774
+  CKA(l33,l12)=0.2302
+  ridge R2 l33->zii = -0.0298
+  ridge R2 l12->zii = -0.0697
+============================================================
+PART A: SP probes (RBD)
+  SP s42 init1: rho=0.4019
+  SP s42 init2: rho=0.4252
+  SP s43 init1: rho=0.4847
+  SP s43 init2: rho=0.4826
+  SP s44 init1: rho=0.4585
+  SP s44 init2: rho=0.4734
+  >> SP(zii) mu=0.4544 sigma=0.0308 splits=[0.414, 0.484, 0.466]
+  SP s42 init1: rho=0.5220
+  SP s42 init2: rho=0.4882
+  SP s43 init1: rho=0.4583
+  SP s43 init2: rho=0.4517
+  SP s44 init1: rho=0.4960
+  SP s44 init2: rho=0.4761
+  >> SP(l33) mu=0.4821 sigma=0.0236 splits=[0.505, 0.455, 0.486]
+  SP s42 init1: rho=0.4692
+  SP s42 init2: rho=0.4921
+  SP s43 init1: rho=0.4649
+  SP s43 init2: rho=0.4887
+  SP s44 init1: rho=0.5347
+  SP s44 init2: rho=0.5235
+  >> SP(l12) mu=0.4955 sigma=0.0258 splits=[0.481, 0.477, 0.529]
+
+============================================================
+SUMMARY:
+  SP(zii) 0.4544 | eff90 45 PR 17.5
+  SP(l33) 0.4821 | eff90 325 PR 44.5
+  SP(l12) 0.4955 | eff90 702 PR 205.7
+  CKA l33-zii 0.0261 / l12-zii 0.0774 / l33-l12 0.2302
+  ridge R2 l33->zii -0.0298 / l12->zii -0.0697
+DONE
